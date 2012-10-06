@@ -1,6 +1,4 @@
-These are helpers and category methods I use for most of my projects.
-
-I DO NOT own copyrights to these code and they belongs to their respective author.
+*These are helpers and category methods I use for most of my projects. I DO NOT own copyrights to these code and they belong to their respective authors.*
 
 **UIAlertView+MKBlockAdditions**
 [github.com/MugunthKumar/UIKitCategoryAdditions](https://github.com/MugunthKumar/UIKitCategoryAdditions)
