@@ -1,4 +1,4 @@
-#import "UIViewAdditions.h"
+#import "UIView+KNAdditions.h"
 
 /**
  * Additions.
